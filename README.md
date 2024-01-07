@@ -22,4 +22,4 @@ mvn spring-boot:run
 
 ## Copyright
 
-Released under the MIT License. See the [LICENSE](https://github.com/lebinio/swarch/blob/master/LICENSE) file.
+Released under the Apache 2.0 license. See the [LICENSE](https://github.com/lebinio/swarch/blob/master/LICENSE) file.
